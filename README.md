@@ -108,16 +108,10 @@ The interactive report enables users to drill into performance by country, produ
 
 ```text
 Tailwind-Traders-Power-Bi-Analysis/
-│
-├── README.md
-├── TailWindTradersReport.pbix
 ├── dax/
-│   └── measures.md
-└── screenshots/
-    ├── Sales_Overview.png
-    ├── Profit_Overview.png
-    ├── Executive_Dashboard1.png
-    └── Executive_Dashboard2.png
+├── screenshots/
+├── README.md
+└── TailWindTradersReport.pbix
 ```
 
 ## Power BI Report
