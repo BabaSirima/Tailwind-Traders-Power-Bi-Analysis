@@ -121,5 +121,12 @@ The complete Power BI Desktop report is available in this repository:
 `TailWindTradersReport.pbix`
 
 ## Skills Demonstrated
+- **Data Modeling:** Built relationships between sales and calendar tables to support accurate filtering and time-based analysis.
+- **DAX & KPI Development:** Created measures for Gross Revenue, Net Revenue, YTD Profit, Profit Margin, and other business KPIs.
+- **Data Transformation:** Used Power Query to clean, transform, and prepare sales data for analysis and reporting.
+- **Data Visualization:** Designed interactive visuals to analyze revenue trends, product performance, sales by country, and inventory.
+- **Business Intelligence:** Transformed sales data into an interactive report that communicates key performance trends and business insights.
+- **Power BI Service & Reporting:** Published the report to Power BI Service, created dashboard tiles, and configured subscriptions and data alerts.
 
+## Technical Skills  
 Power BI | Power Query | DAX | Data Modeling | Data Visualization | Business Intelligence | KPI Development | Dashboard Design | Power BI Service
